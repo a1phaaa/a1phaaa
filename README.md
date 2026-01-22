@@ -1,6 +1,6 @@
 - 👋 Hi, I’m crzliang, graduated from GUET.
 - 👀 I’m interested in Motorsport, Photography, CTF and Cyber Security.
-- 📫 You can contact me through this email: <a href="mailto:crzliang@outlook.com">crzliang@outlook.com</a>
+- 📫 You can contact me through this email: <a href="mailto:me@crzliang.cn">me@crzliang.cn</a>
 - 🍻🍻🍻
 
 <!---
